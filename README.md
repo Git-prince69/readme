@@ -29,7 +29,7 @@
 </div>
 
 
-<img src="metrics.png" style="margin: 20px 0px;" height=70 alt="metrics" />
+<img src="assets/Aboutsvg.png" style="margin: 20px 0px;" height=70 alt="metrics" />
 
 <p>
     <a href="https://github.com/0xPrince121/">
