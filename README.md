@@ -9,7 +9,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=0xPrince121&style=flat&color=DB1CFF&label=Profile+Views)
 
 <img src="https://api.statusbadges.me/badge/status/697499988636205137?label=Currently" alt="Status" />
+
 <img src="https://api.statusbadges.me/badge/vscode/697499988636205137?label=Coding" alt="VSCode" />
+
 <img src="https://api.statusbadges.me/badge/crunchyroll/697499988636205137?label=Watching" alt="Crunchyroll" />
 
 ![spotify](https://api.statusbadges.me/badge/spotify/697499988636205137?label=Listening%20to)
